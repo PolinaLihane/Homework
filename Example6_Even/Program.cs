@@ -5,9 +5,9 @@ WriteLine("Введите число: ");
 int number = int.Parse(ReadLine());
 if (number % 2 == 0)
 {
-    WriteLine("Число делится без остатка");
+    WriteLine($"{number} четное");
 }
 else 
 {
-    WriteLine("Число делится c остатком");
+    WriteLine($"{number} не четное");
 }
