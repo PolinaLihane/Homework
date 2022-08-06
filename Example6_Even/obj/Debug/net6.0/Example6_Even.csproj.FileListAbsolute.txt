@@ -1,0 +1,15 @@
+C:\Users\golland\Desktop\git\C#\homework1\Example6_Even\obj\Debug\net6.0\Example6_Even.csproj.AssemblyReference.cache
+C:\Users\golland\Desktop\git\C#\homework1\Example6_Even\obj\Debug\net6.0\Example6_Even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\golland\Desktop\git\C#\homework1\Example6_Even\obj\Debug\net6.0\Example6_Even.AssemblyInfoInputs.cache
+C:\Users\golland\Desktop\git\C#\homework1\Example6_Even\obj\Debug\net6.0\Example6_Even.AssemblyInfo.cs
+C:\Users\golland\Desktop\git\C#\homework1\Example6_Even\obj\Debug\net6.0\Example6_Even.csproj.CoreCompileInputs.cache
+C:\Users\golland\Desktop\git\C#\homework1\Example6_Even\bin\Debug\net6.0\Example6_Even.exe
+C:\Users\golland\Desktop\git\C#\homework1\Example6_Even\bin\Debug\net6.0\Example6_Even.deps.json
+C:\Users\golland\Desktop\git\C#\homework1\Example6_Even\bin\Debug\net6.0\Example6_Even.runtimeconfig.json
+C:\Users\golland\Desktop\git\C#\homework1\Example6_Even\bin\Debug\net6.0\Example6_Even.dll
+C:\Users\golland\Desktop\git\C#\homework1\Example6_Even\bin\Debug\net6.0\Example6_Even.pdb
+C:\Users\golland\Desktop\git\C#\homework1\Example6_Even\obj\Debug\net6.0\Example6_Even.dll
+C:\Users\golland\Desktop\git\C#\homework1\Example6_Even\obj\Debug\net6.0\refint\Example6_Even.dll
+C:\Users\golland\Desktop\git\C#\homework1\Example6_Even\obj\Debug\net6.0\Example6_Even.pdb
+C:\Users\golland\Desktop\git\C#\homework1\Example6_Even\obj\Debug\net6.0\Example6_Even.genruntimeconfig.cache
+C:\Users\golland\Desktop\git\C#\homework1\Example6_Even\obj\Debug\net6.0\ref\Example6_Even.dll
