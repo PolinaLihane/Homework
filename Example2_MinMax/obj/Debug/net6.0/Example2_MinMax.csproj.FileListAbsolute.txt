@@ -1,0 +1,15 @@
+C:\Users\golland\Desktop\git\C#\homework1\Example2_MinMax\bin\Debug\net6.0\Example2_MinMax.exe
+C:\Users\golland\Desktop\git\C#\homework1\Example2_MinMax\bin\Debug\net6.0\Example2_MinMax.deps.json
+C:\Users\golland\Desktop\git\C#\homework1\Example2_MinMax\bin\Debug\net6.0\Example2_MinMax.runtimeconfig.json
+C:\Users\golland\Desktop\git\C#\homework1\Example2_MinMax\bin\Debug\net6.0\Example2_MinMax.dll
+C:\Users\golland\Desktop\git\C#\homework1\Example2_MinMax\bin\Debug\net6.0\Example2_MinMax.pdb
+C:\Users\golland\Desktop\git\C#\homework1\Example2_MinMax\obj\Debug\net6.0\Example2_MinMax.csproj.AssemblyReference.cache
+C:\Users\golland\Desktop\git\C#\homework1\Example2_MinMax\obj\Debug\net6.0\Example2_MinMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\golland\Desktop\git\C#\homework1\Example2_MinMax\obj\Debug\net6.0\Example2_MinMax.AssemblyInfoInputs.cache
+C:\Users\golland\Desktop\git\C#\homework1\Example2_MinMax\obj\Debug\net6.0\Example2_MinMax.AssemblyInfo.cs
+C:\Users\golland\Desktop\git\C#\homework1\Example2_MinMax\obj\Debug\net6.0\Example2_MinMax.csproj.CoreCompileInputs.cache
+C:\Users\golland\Desktop\git\C#\homework1\Example2_MinMax\obj\Debug\net6.0\Example2_MinMax.dll
+C:\Users\golland\Desktop\git\C#\homework1\Example2_MinMax\obj\Debug\net6.0\refint\Example2_MinMax.dll
+C:\Users\golland\Desktop\git\C#\homework1\Example2_MinMax\obj\Debug\net6.0\Example2_MinMax.pdb
+C:\Users\golland\Desktop\git\C#\homework1\Example2_MinMax\obj\Debug\net6.0\Example2_MinMax.genruntimeconfig.cache
+C:\Users\golland\Desktop\git\C#\homework1\Example2_MinMax\obj\Debug\net6.0\ref\Example2_MinMax.dll
