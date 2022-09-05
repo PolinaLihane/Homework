@@ -10,6 +10,18 @@ int[] parameters = ReadLine()!.Split(" ", StringSplitOptions.RemoveEmptyEntries)
 int[,,] Cube = GetCube(parameters[0], parameters[1], parameters[2]);
 PrintCube(Cube);
 
+//поиск и замена в масс
+
+//int num=new Random().Next(1, 10);
+//for (int k = 0; k < width; k++)
+//{
+///while(FindElement(num,result))
+//{
+//num=new Random().Next(1, 10);
+//}
+//result[i, j,k] = num;
+//}
+
 int[,,] GetCube(int rows, int colums, int width)
 {
     int[,,] result = new int[rows, colums,width];
